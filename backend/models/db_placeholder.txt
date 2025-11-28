@@ -1,0 +1,1 @@
+This project uses a file-based SQLite DB in production. For the demo, in-memory structures are used.

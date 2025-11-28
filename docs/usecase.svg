@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300">
+  <text x="20" y="30" font-size="16" font-family="sans-serif">Use Case: Create & Take Quiz</text>
+  <ellipse cx="520" cy="80" rx="100" ry="40" fill="#fff8dc" stroke="#333"/>
+  <text x="470" y="86" font-family="sans-serif">Instructor</text>
+
+  <ellipse cx="520" cy="200" rx="100" ry="40" fill="#f0fff0" stroke="#333"/>
+  <text x="470" y="206" font-family="sans-serif">Student</text>
+
+  <rect x="160" y="60" width="260" height="180" fill="#eef" stroke="#333"/>
+  <text x="200" y="90" font-family="sans-serif">System</text>
+  <text x="200" y="120" font-family="sans-serif">- Generate Quiz</text>
+  <text x="200" y="140" font-family="sans-serif">- Store Quiz</text>
+  <text x="200" y="160" font-family="sans-serif">- Take Quiz & Score</text>
+</svg>
